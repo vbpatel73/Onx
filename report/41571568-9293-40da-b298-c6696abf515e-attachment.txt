@@ -1,0 +1,3 @@
+[{"train_num":12335,"name":"Bhagalpur - Mumbai LTT SF Express","train_from":"BGP","train_to":"LTT","data":{"id":"173","days":{"Fri":1,"Mon":"0","Sat":"0","Sun":1,"Thu":"0","Tue":1,"Wed":"0"},"to_id":"466","classes":["II","SL","3A","2A"],"from_id":"1156","arriveTime":"20:00 +1 night","departTime":"09:00"}}]
+Bhagalpur - Mumbai LTT SF Express|['II', 'SL', '3A', '2A']
+Report successfully generated to onx\reports\191118_1604
